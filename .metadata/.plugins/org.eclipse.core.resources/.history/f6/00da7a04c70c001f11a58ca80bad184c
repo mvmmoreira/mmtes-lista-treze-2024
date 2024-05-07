@@ -1,0 +1,14 @@
+package exercicio5;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class FormatadorDataTest {
+
+	@Test
+	public void test() {
+		fail("Not yet implemented");
+	}
+
+}

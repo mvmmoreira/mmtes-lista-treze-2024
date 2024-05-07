@@ -1,0 +1,14 @@
+package mmteslistatreze20241;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class Testex1 {
+
+	@Test
+	void test() {
+		fail("Not yet implemented");
+	}
+
+}
